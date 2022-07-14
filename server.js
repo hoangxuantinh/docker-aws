@@ -6,5 +6,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log('Server is up on 30f000')
+    console.log('Server is up on 30f0060')
 })
