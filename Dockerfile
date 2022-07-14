@@ -1,4 +1,4 @@
-FROM sample-nodejs-app:lasted
+FROM ecs-nodejs-app:lasted
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 COPY . .
